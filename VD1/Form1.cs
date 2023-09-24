@@ -20,6 +20,7 @@ namespace VD1
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             MessageBox.Show("Hello, world");
+            MessageBox.Show("Hello);
         }
     }
 }
